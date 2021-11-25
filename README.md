@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slumberingcat
-- 👀 I’m interested in python, game, books.
+- 👀 I’m interested in python, games, books.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me umerovamarina@yandex.ru
